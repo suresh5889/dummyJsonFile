@@ -1,0 +1,17 @@
+{
+	"employees": [
+	{
+		"firstname" : "Test",
+		"age" : 30,
+		"mail" : "abc@gmail.com"
+	},
+	{
+		"firstname" : "Test User 2",
+		"age" : 20,
+		"mail" : "abcde@gmail.com"
+	}
+	],
+	"profile" : {
+		"name" : "typicode"
+	}
+}
